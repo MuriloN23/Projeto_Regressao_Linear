@@ -66,7 +66,7 @@ Siga os passos abaixo para configurar o ambiente e rodar o projeto:
 ## Autores:
 
 - **Marley Rebouças Ferreira**
-- **Murilo Carlos NOvais**
+- **Murilo Carlos Novais**
 
 
 
