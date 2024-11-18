@@ -259,7 +259,6 @@ print("Interpretação dos Coeficientes:")
 print(coefficients)
 print(f"Intercepto: {intercept:.6f}")
 
-
 # Coeficientes do modelo
 coefficients = pd.DataFrame({
     "Variável": features,
