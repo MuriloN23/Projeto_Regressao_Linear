@@ -69,4 +69,4 @@ Siga os passos abaixo para configurar o ambiente e rodar o projeto:
 - **Murilo Carlos Novais**
 
 ## Observações
-- O relatório técnico completo está disponível na pasta /docs com o nome *Relatorio_Tecnico_RegLinear.pdf*.
+- O relatório técnico completo está disponível na pasta /docs com o nome *Relatório Técnico Regressão Linear - Marley e Murilo.pdf*.
